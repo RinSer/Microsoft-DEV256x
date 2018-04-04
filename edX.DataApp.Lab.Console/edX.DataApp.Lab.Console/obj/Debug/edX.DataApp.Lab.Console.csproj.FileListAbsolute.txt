@@ -1,0 +1,7 @@
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.exe.config
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.exe
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\bin\Debug\edX.DataApp.Lab.Console.pdb
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.csproj.CoreCompileInputs.cache
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.exe
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.pdb
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.Console\edX.DataApp.Lab.Console\obj\Debug\edX.DataApp.Lab.Console.csprojResolveAssemblyReference.cache
