@@ -1,0 +1,11 @@
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\bin\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.deps.json
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\bin\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.runtimeconfig.json
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\bin\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.runtimeconfig.dev.json
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\bin\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.dll
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\bin\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.pdb
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.csproj.CoreCompileInputs.cache
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.AssemblyInfoInputs.cache
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.AssemblyInfo.cs
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.dll
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.pdb
+D:\edx\Microsoft+DEV256x\edX.DataApp.Lab.CoreConsole\edX.DataApp.Lab.CoreConsole\obj\Debug\netcoreapp2.0\edX.DataApp.Lab.CoreConsole.csprojResolveAssemblyReference.cache
